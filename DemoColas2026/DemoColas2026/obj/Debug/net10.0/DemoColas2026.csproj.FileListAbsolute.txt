@@ -1,0 +1,14 @@
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\bin\Debug\net10.0\DemoColas2026.exe
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\bin\Debug\net10.0\DemoColas2026.deps.json
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\bin\Debug\net10.0\DemoColas2026.runtimeconfig.json
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\bin\Debug\net10.0\DemoColas2026.dll
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\bin\Debug\net10.0\DemoColas2026.pdb
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.AssemblyInfoInputs.cache
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.AssemblyInfo.cs
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.csproj.CoreCompileInputs.cache
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.dll
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\refint\DemoColas2026.dll
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.pdb
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\DemoColas2026.genruntimeconfig.cache
+C:\Users\franz\Documents\Gabo ESEN\DemoColas2026\DemoColas2026\obj\Debug\net10.0\ref\DemoColas2026.dll
