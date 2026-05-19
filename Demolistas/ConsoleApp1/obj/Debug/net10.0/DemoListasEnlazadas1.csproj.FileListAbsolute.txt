@@ -1,0 +1,14 @@
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.AssemblyInfoInputs.cache
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.AssemblyInfo.cs
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.csproj.CoreCompileInputs.cache
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\bin\Debug\net10.0\DemoListasEnlazadas1.exe
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\bin\Debug\net10.0\DemoListasEnlazadas1.deps.json
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\bin\Debug\net10.0\DemoListasEnlazadas1.runtimeconfig.json
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\bin\Debug\net10.0\DemoListasEnlazadas1.dll
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\bin\Debug\net10.0\DemoListasEnlazadas1.pdb
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.dll
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\refint\DemoListasEnlazadas1.dll
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.pdb
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\DemoListasEnlazadas1.genruntimeconfig.cache
+C:\Users\franz\Documents\Gabo ESEN\Demolistas\ConsoleApp1\obj\Debug\net10.0\ref\DemoListasEnlazadas1.dll
