@@ -18,4 +18,15 @@ static void PrintList(List<int> list, string label)
     Console.Write(" ]");
 }
 
+static void ReverseList(List<int> list, string label)
+{
+    Console.Write(label + ": [ ");
 
+    for (int i = list.Count - 1; i >= 0; i--)
+    {
+        Console.Write(list[i]);
+        if (i > 0) Console.Write(", ");
+    }
+
+    Console.Write(" ] ");
+}
