@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoListasEnlazadas1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0a01d4f11e5e495982d931bb1d2b257e19e560b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf2a15a0018650e2343adc2784983df2ba32d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoListasEnlazadas1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoListasEnlazadas1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

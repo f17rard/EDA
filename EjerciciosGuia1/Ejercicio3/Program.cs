@@ -1,9 +1,12 @@
-﻿list<int> ListA = new list<int>
+﻿List<int> ListA = new List<int>();
 ListA.Add(1);
 ListA.Add(2);
 ListA.Add(3);
 ListA.Add(4);
 ListA.Add(5);
+
+PrintList(ListA, "lista A");
+ReverseList(ListA, "Lista A reversa");
 
 static void PrintList(List<int> list, string label)
 {
