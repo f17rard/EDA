@@ -12,13 +12,13 @@ static void PrintList(List<int> list, string label)
 {
     Console.Write(label + ": [ ");
 
-    for(int i=0;  i<list.Count; i++)
+    for (int i = 0; i < list.Count; i++)
     {
         Console.Write(list[i]);
-        if(i < list.Count - 1) Console.Write(", ");
+        if (i < list.Count - 1) Console.Write(", ");
     }
 
-    Console.Write(" ]");
+    Console.Write(" ] ");
 }
 
 static void ReverseList(List<int> list, string label)
